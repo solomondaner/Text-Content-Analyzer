@@ -10,4 +10,4 @@ extras:
 1. The ability to find often used phrases (a phrase of 3 or more words used over 3 times)
 2. A list of words used, in order of descending frequency
 
-Attached to this repository is the text content analyzer code, 
+Attached to this repository is the text content analyzer code, a text document to run the code on, and the output. 
