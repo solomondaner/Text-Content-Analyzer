@@ -1,0 +1,2 @@
+Imagine Johnny Appleseed is a customer. Johnny appleseed typically buys Red and Green apples.The product recommender gives him 5 recommendations: 
+a purple apple, a yellow apple, an orange apple, a grey apple, and a black apple. Johnny Appleseed in his next transaction at Lil Red Riding Hood's Grocery store buys a purple apple. Therefore, the TPR of the recommender model is 20%. 
