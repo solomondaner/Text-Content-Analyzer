@@ -1,7 +1,7 @@
 ### Python Output when running the text content analyzer on the Apple text document
 
 
-Python 3.7.3 (default, Mar 27 2019, 17:13:21) [MSC v.1915 64 bit (AMD64)]
+Python 3.7.3 
 Type "copyright", "credits" or "license" for more information.
 
 IPython 7.4.0 -- An enhanced Interactive Python.
